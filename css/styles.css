@@ -1,0 +1,128 @@
+body { 
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    line-height: 150%;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    margin: 20px auto 50px auto;
+    color: #66BFBF;
+    font-weight: normal;
+}
+p {
+    line-height: 2;
+}
+.p1 {
+    width: 50%;
+    margin: auto;
+}
+.p4 {
+    width: 30%;
+    margin: auto;
+}
+h3 {
+        font-family: 'Montserrat', sans-serif;
+        color: #66BFBF;
+        font-size: 2rem;
+        margin-top: 0px;
+}
+.top {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 30px;
+    margin-bottom: 0;
+}
+
+.top-cloud {
+    width: 200px;
+    position: relative;
+    left: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    width: 150px;
+    position: relative;
+    left: 30px;
+    bottom: 300px;
+}
+.mountain {
+    width: 700px;
+}
+
+.middle-container {
+    margin: auto;
+}
+.bottom-container {
+    margin: 50px auto 0 auto;
+    background-color: #66BFBF;
+    height: 150px;
+    padding-top: 50px;
+}
+.skills {
+    margin: 30px auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 70px auto 70px auto;
+    text-align: left;
+    line-height: 2;
+}
+.computer {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+.chillies {
+    width: 25%;
+    float: right;
+    margin-right: 20px;
+}
+hr {
+    border-style: none;
+    border-top: 7px dotted lightgray;
+    width: 70px;
+    margin: 100px auto;
+}
+.dp {
+    width: 300px;
+    border-radius: 50%;
+}
+.button {
+
+        display: inline-block;
+        margin-top: 50px;
+        padding: 5px 10px;
+        border-radius: 8px;
+        font-size: 18px;
+        text-align: center;
+        border: none;
+        background: linear-gradient( #11cdd4, #11999e);
+       
+}
+.button:hover {
+    background: linear-gradient( #30e3cb, #2bc4ad);
+}
+.btn {
+    color: whitesmoke;
+}
+a {
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin: 30px;
+}
+a:hover {
+    color: #c1f5f7;
+}
